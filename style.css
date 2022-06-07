@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(155, 205, 180);
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    width: 100px;
+    border-radius: 50px;
+    color: black;
+}
+
+button:hover {
+    color: white;
+}
+
+#incr-btn {
+    background: red;
+}
+
+#save-btn {
+    background: green;
+}
+
+#err-btn {
+    background: blue;
+}
